@@ -1,0 +1,2 @@
+https://www.gitignore.io/
+this is very usefull for ignoring files.
